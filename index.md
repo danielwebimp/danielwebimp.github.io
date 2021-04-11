@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>Hello</title>
-
+Hello
 </head>
   <body>
   <p>DanielWebImp</p>
