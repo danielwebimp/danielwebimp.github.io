@@ -1,6 +1,6 @@
 <html>
 <head>
-Hello
+<title>Hello</title>
 DanielWebImp
 </head>
   <body>
